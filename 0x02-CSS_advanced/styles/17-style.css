@@ -269,6 +269,6 @@ a:active {
   width: 960px;
 }
 
-footer {
+.footer {
   padding: var(--footer-padding);
 }
